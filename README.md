@@ -40,4 +40,4 @@ I'm passionate about expanding my knowledge in web development, particularly foc
 
 ---
 
-*"Building solutions that bridge technology and business needs"*# Eugene Avila
+*"Building solutions that bridge technology and business needs"*
