@@ -6,8 +6,8 @@ I am a seasoned Full Stack Developer with 8 years of professional experience spe
 
 ### 🛠 Technical Skills
 - **Frontend**: React JS, React Native, 
-- **Architecture**: REST APIs, Scalable Systems, Apollo GraphQL
-- **Cloud Services**: AWS, GCP
+- **Architecture**: REST APIs, Scalable Systems, Apollo GraphQL, Microservices
+- **Cloud Services**: AWS, GCP, Azure
 - **Development Methodologies**: Agile Scrum
 
 ### 💼 Professional Experience
